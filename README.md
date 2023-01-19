@@ -1,8 +1,7 @@
 # Responsive and Animated Portfolio Website & App - Flutter UI
 
-## [Live Preview](https://abuanwar072.github.io/profile/#/)
+## [Live Preview](https://portfolio-25aa0.web.app/#/)
 
-## [Watch it on YouTube](https://youtu.be/G_ZIJseX6AU)
 
 **Packages we are using:**
 
@@ -18,6 +17,8 @@ Today we will show you how you can create your developer portfolio website and a
 
 ### Responsive and Animated Portfolio Website & App Final UI
 
-![Preview](/gif.gif)
-
-![App UI](/ui.png)
+# SCREENSHOTS
+ 
+<img width="1438" alt="portfolio1" src="https://user-images.githubusercontent.com/21080719/213356430-41015d31-bc10-4702-88c9-3b6bacacaaa1.png">
+<img width="1433" alt="portfolio2" src="https://user-images.githubusercontent.com/21080719/213356446-a994d748-fbee-416b-b1d0-eb12eef7e6e0.png">
+<img width="1427" alt="portfolio3" src="https://user-images.githubusercontent.com/21080719/213356448-22726f0b-d5ff-496c-b0f1-0a927fd03620.png">
